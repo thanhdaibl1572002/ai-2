@@ -45,7 +45,7 @@ Dự án này triển khai thuật toán **Di truyền (Genetic Algorithm - GA)*
 Sau **100 thế hệ** với kích thước quần thể là **10**:
 
 ```plaintext
-est route using PMX: [0, 2, 4, 1, 3]
+Best route using PMX: [0, 2, 4, 1, 3]
 Best distance: 203
 ```
 
